@@ -1,0 +1,15 @@
+.menu_item {
+    padding: 1rem;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    color: black
+}
+
+.menu_item_active {
+    background-color: #E93921;
+    color: white;
+}
+
+.menu {
+}
